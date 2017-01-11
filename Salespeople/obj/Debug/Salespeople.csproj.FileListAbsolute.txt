@@ -1,0 +1,16 @@
+E:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\bin\Debug\Salespeople.exe.config
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\bin\Debug\Salespeople.exe.config
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Debug\Salespeople.csprojResolveAssemblyReference.cache
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Debug\Salespeople.AddEmployeeForm.resources
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Debug\Salespeople.Form1.resources
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Debug\Salespeople.Properties.Resources.resources
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Debug\Salespeople.csproj.GenerateResource.Cache
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\bin\Debug\Salespeople.exe
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\bin\Debug\Salespeople.pdb
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Debug\Salespeople.exe
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Debug\Salespeople.pdb
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Debug\Salespeople.AddSale.resources
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\bin\Debug\Salespeople.exe.manifest
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\bin\Debug\Salespeople.application
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Debug\Salespeople.exe.manifest
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Debug\Salespeople.application

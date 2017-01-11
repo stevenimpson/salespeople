@@ -1,0 +1,10 @@
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\bin\Release\Salespeople.exe.config
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\bin\Release\Salespeople.exe
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\bin\Release\Salespeople.pdb
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Release\Salespeople.AddEmployeeForm.resources
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Release\Salespeople.AddSale.resources
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Release\Salespeople.Form1.resources
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Release\Salespeople.Properties.Resources.resources
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Release\Salespeople.csproj.GenerateResource.Cache
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Release\Salespeople.exe
+F:\Dropbox\University\ICT239\Major Assignment 2\Salespeople\Salespeople\obj\Release\Salespeople.pdb
