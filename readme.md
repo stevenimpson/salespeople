@@ -7,21 +7,21 @@ A new sale can be added to a selected Employee’s record, increasing their Tota
 Help information can be access from the Help>Help Pages menu item, which will present a web page detailing the program’s use.
 
 ## Self-Diagnosis & Declaration
-Features fully working
-•	Employee creation
-•	Manipulating employee details via Employee Details fields
-•	Printing full list of employee details
-•	Printing individual employee details
-•	Searching for employees by name
-•	Searching for employees by Geographical Area
-•	Searching for employees with TotalSales exceeding $1m
-•	Presenting Help pages
-•	ClickOnce installation
-•	Refreshing People List
-•	Adding a new sale to selected employee record
-Features not fully working
-•	Selecting a blank space on employee list throws an exception, caused by program trying to access an object that doesn’t exist. Could be dealt with by handling this exception and forcing program to break out of the SelectedIndexChanged method, or implementing a check to ensure that the selected index contains an employee before going ahead with trying to populate Details fields
-•	Print employee details document directly to a printer. Planned to implement this feature but was unable to work out direct printing in time. Option removed from GUI.
+# Features fully working
+*	Employee creation
+*	Manipulating employee details via Employee Details fields
+*	Printing full list of employee details
+*	Printing individual employee details
+*	Searching for employees by name
+*	Searching for employees by Geographical Area
+*	Searching for employees with TotalSales exceeding $1m
+*	Presenting Help pages
+*	ClickOnce installation
+*	Refreshing People List
+*	Adding a new sale to selected employee record
+# Features not fully working
+*	Selecting a blank space on employee list throws an exception, caused by program trying to access an object that doesn’t exist. Could be dealt with by handling this exception and forcing program to break out of the SelectedIndexChanged method, or implementing a check to ensure that the selected index contains an employee before going ahead with trying to populate Details fields
+*	Print employee details document directly to a printer. Planned to implement this feature but was unable to work out direct printing in time. Option removed from GUI.
 
 
 ## Solution
