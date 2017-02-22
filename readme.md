@@ -19,6 +19,7 @@ Help information can be access from the Help>Help Pages menu item, which will pr
 *	ClickOnce installation
 *	Refreshing People List
 *	Adding a new sale to selected employee record
+
 # Features not fully working
 *	Selecting a blank space on employee list throws an exception, caused by program trying to access an object that doesn’t exist. Could be dealt with by handling this exception and forcing program to break out of the SelectedIndexChanged method, or implementing a check to ensure that the selected index contains an employee before going ahead with trying to populate Details fields
 *	Print employee details document directly to a printer. Planned to implement this feature but was unable to work out direct printing in time. Option removed from GUI.
