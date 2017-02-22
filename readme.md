@@ -1,4 +1,4 @@
-Problem description
+## Problem description
 This program aims to allow businesses and companies keep track of their employees and each of their details. Business owners need to be able to change these details as their employees change, move addresses etc, and this program also allows for this.
 In addition, the entire list of employees at any point in time can be saved to a text file, which can then be printed for use outside of the computer environment.
 Users can search for employees based on all or part of their name, as well as by the geographical area they have been assigned.
@@ -6,7 +6,7 @@ A text file can be saved with details of a single selected employee.
 A new sale can be added to a selected Employee’s record, increasing their Total Sales amount and recorded.
 Help information can be access from the Help>Help Pages menu item, which will present a web page detailing the program’s use.
 
-Self-Diagnosis & Declaration
+## Self-Diagnosis & Declaration
 Features fully working
 •	Employee creation
 •	Manipulating employee details via Employee Details fields
@@ -24,7 +24,7 @@ Features not fully working
 •	Print employee details document directly to a printer. Planned to implement this feature but was unable to work out direct printing in time. Option removed from GUI.
 
 
-Solution
+## Solution
 This program consists of an Employee class which holds data for each employee’s name, address, index, location, home number, office number, mobile number, email and total sales.
 The program creates a list of Employee objects. Originally planned to use an Array, however found that a List is more appropriate for this application as the size of a List does not need to be defined at runtime. This way the list can dynamically change size based on how many objects it is required to hold by the user.
 Employee objects are added through a form which is presented to the user which requests a name input.
